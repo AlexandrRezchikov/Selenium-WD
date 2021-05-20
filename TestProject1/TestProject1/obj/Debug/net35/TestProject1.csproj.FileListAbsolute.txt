@@ -1,0 +1,34 @@
+C:\Users\Alexander\Desktop\EPAM\Meeting Selenium WD API\TestProject1\TestProject1\bin\Debug\net35\NUnit3.TestAdapter.dll
+C:\Users\Alexander\Desktop\EPAM\Meeting Selenium WD API\TestProject1\TestProject1\bin\Debug\net35\NUnit3.TestAdapter.pdb
+C:\Users\Alexander\Desktop\EPAM\Meeting Selenium WD API\TestProject1\TestProject1\bin\Debug\net35\nunit.engine.dll
+C:\Users\Alexander\Desktop\EPAM\Meeting Selenium WD API\TestProject1\TestProject1\bin\Debug\net35\nunit.engine.api.dll
+C:\Users\Alexander\Desktop\EPAM\Meeting Selenium WD API\TestProject1\TestProject1\bin\Debug\net35\nunit.engine.core.dll
+C:\Users\Alexander\Desktop\EPAM\Meeting Selenium WD API\TestProject1\TestProject1\bin\Debug\net35\TestProject1.dll
+C:\Users\Alexander\Desktop\EPAM\Meeting Selenium WD API\TestProject1\TestProject1\bin\Debug\net35\TestProject1.pdb
+C:\Users\Alexander\Desktop\EPAM\Meeting Selenium WD API\TestProject1\TestProject1\bin\Debug\net35\nunit.framework.dll
+C:\Users\Alexander\Desktop\EPAM\Meeting Selenium WD API\TestProject1\TestProject1\bin\Debug\net35\WebDriver.Support.dll
+C:\Users\Alexander\Desktop\EPAM\Meeting Selenium WD API\TestProject1\TestProject1\bin\Debug\net35\WebDriver.dll
+C:\Users\Alexander\Desktop\EPAM\Meeting Selenium WD API\TestProject1\TestProject1\obj\Debug\net35\TestProject1.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\EPAM\Meeting Selenium WD API\TestProject1\TestProject1\obj\Debug\net35\TestProject1.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\EPAM\Meeting Selenium WD API\TestProject1\TestProject1\obj\Debug\net35\TestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\EPAM\Meeting Selenium WD API\TestProject1\TestProject1\obj\Debug\net35\TestProject1.csproj.CopyComplete
+C:\Users\Alexander\Desktop\EPAM\Meeting Selenium WD API\TestProject1\TestProject1\obj\Debug\net35\TestProject1.dll
+C:\Users\Alexander\Desktop\EPAM\Meeting Selenium WD API\TestProject1\TestProject1\obj\Debug\net35\TestProject1.pdb
+C:\Users\Alexander\Desktop\EPAM\Meeting Selenium WD API\TestProject1\TestProject1\obj\Debug\net35\TestProject1.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\EPAM\Selenium-WD\TestProject1\TestProject1\bin\Debug\net35\NUnit3.TestAdapter.dll
+C:\Users\Alexander\Desktop\EPAM\Selenium-WD\TestProject1\TestProject1\bin\Debug\net35\NUnit3.TestAdapter.pdb
+C:\Users\Alexander\Desktop\EPAM\Selenium-WD\TestProject1\TestProject1\bin\Debug\net35\nunit.engine.dll
+C:\Users\Alexander\Desktop\EPAM\Selenium-WD\TestProject1\TestProject1\bin\Debug\net35\nunit.engine.api.dll
+C:\Users\Alexander\Desktop\EPAM\Selenium-WD\TestProject1\TestProject1\bin\Debug\net35\nunit.engine.core.dll
+C:\Users\Alexander\Desktop\EPAM\Selenium-WD\TestProject1\TestProject1\bin\Debug\net35\TestProject1.dll
+C:\Users\Alexander\Desktop\EPAM\Selenium-WD\TestProject1\TestProject1\bin\Debug\net35\TestProject1.pdb
+C:\Users\Alexander\Desktop\EPAM\Selenium-WD\TestProject1\TestProject1\bin\Debug\net35\nunit.framework.dll
+C:\Users\Alexander\Desktop\EPAM\Selenium-WD\TestProject1\TestProject1\bin\Debug\net35\WebDriver.Support.dll
+C:\Users\Alexander\Desktop\EPAM\Selenium-WD\TestProject1\TestProject1\bin\Debug\net35\WebDriver.dll
+C:\Users\Alexander\Desktop\EPAM\Selenium-WD\TestProject1\TestProject1\obj\Debug\net35\TestProject1.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\EPAM\Selenium-WD\TestProject1\TestProject1\obj\Debug\net35\TestProject1.AssemblyInfoInputs.cache
+C:\Users\Alexander\Desktop\EPAM\Selenium-WD\TestProject1\TestProject1\obj\Debug\net35\TestProject1.AssemblyInfo.cs
+C:\Users\Alexander\Desktop\EPAM\Selenium-WD\TestProject1\TestProject1\obj\Debug\net35\TestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\EPAM\Selenium-WD\TestProject1\TestProject1\obj\Debug\net35\TestProject1.csproj.CopyComplete
+C:\Users\Alexander\Desktop\EPAM\Selenium-WD\TestProject1\TestProject1\obj\Debug\net35\TestProject1.dll
+C:\Users\Alexander\Desktop\EPAM\Selenium-WD\TestProject1\TestProject1\obj\Debug\net35\TestProject1.pdb
