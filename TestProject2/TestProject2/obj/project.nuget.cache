@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "WTssk0nF3ep4Z+UOutngQEQi6TIuXNYrtnUAtV5e6vDPfco7dkuOo1/5Ir5P6kVAdQZHY+SsntPoN/R6wiLEkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alexander\\Desktop\\EPAM\\Selenium test C#\\TestProject2\\TestProject2\\TestProject2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexander\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",
+    "C:\\Users\\Alexander\\.nuget\\packages\\dotnetseleniumextras.pageobjects.core\\3.12.0\\dotnetseleniumextras.pageobjects.core.3.12.0.nupkg.sha512",
+    "C:\\Users\\Alexander\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\Alexander\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\Alexander\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\Alexander\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512",
+    "C:\\Users\\Alexander\\.nuget\\packages\\selenium.support\\3.141.0\\selenium.support.3.141.0.nupkg.sha512",
+    "C:\\Users\\Alexander\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
+    "C:\\Users\\Alexander\\.nuget\\packages\\selenium.webdriver.chromedriver\\90.0.4430.2400\\selenium.webdriver.chromedriver.90.0.4430.2400.nupkg.sha512"
+  ],
+  "logs": []
+}
